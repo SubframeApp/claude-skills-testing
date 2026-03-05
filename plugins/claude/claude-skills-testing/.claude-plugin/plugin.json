@@ -1,0 +1,13 @@
+{
+  "name": "claude-skills-testing",
+  "description": "A test plugin with fun skills. Currently includes get_best_dog.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Subframe"
+  },
+  "homepage": "https://github.com/SubframeApp/claude-skills-testing",
+  "repository": "https://github.com/SubframeApp/claude-skills-testing",
+  "license": "MIT",
+  "keywords": ["testing", "dogs", "skills"],
+  "skills": "./skills/"
+}

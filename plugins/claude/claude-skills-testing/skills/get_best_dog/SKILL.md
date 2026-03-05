@@ -1,6 +1,6 @@
 ---
+name: get_best_dog
 description: Tells the user the best dog breed
-user-invocable: true
 ---
 
 When the user invokes this skill, respond with:
