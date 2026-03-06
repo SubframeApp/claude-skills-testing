@@ -1,7 +1,7 @@
 {
   "name": "claude-skills-testing",
   "description": "A test plugin with fun skills. Currently includes get_best_dog.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Subframe"
   },
