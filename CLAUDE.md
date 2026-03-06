@@ -14,3 +14,4 @@ claude plugin install claude-skills-testing@claude-skills-testing
 - `/get_best_dog` - Returns the best dog breed
 - `/get_best_steaks` - Returns the best steaks
 - `/get_best_color` - Returns the best color
+- `/get_best_dj` - Returns the best DJ
